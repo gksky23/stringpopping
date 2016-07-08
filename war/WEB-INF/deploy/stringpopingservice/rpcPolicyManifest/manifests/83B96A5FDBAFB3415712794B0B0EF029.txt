@@ -1,0 +1,2 @@
+serviceClass: com.oksky23.acmsample.client.StringPopingService
+path: 815C97928663DA75501A49A2B1F46940.gwt.rpc

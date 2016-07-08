@@ -1,0 +1,4 @@
+# Module stringpopingservice
+# RPC service class, partial path of RPC policy file
+com.oksky23.acmsample.client.StringPopingService, 815C97928663DA75501A49A2B1F46940.gwt.rpc
+com.oksky23.acmsample.client.GreetingService, 5D2579D3F767624C7E83C60592F91875.gwt.rpc

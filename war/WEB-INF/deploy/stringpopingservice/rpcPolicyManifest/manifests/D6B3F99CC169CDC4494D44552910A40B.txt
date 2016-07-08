@@ -1,0 +1,2 @@
+serviceClass: com.oksky23.acmsample.client.GreetingService
+path: 5D2579D3F767624C7E83C60592F91875.gwt.rpc
